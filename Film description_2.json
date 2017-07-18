@@ -1,0 +1,60 @@
+﻿{
+"Film_1": [{
+		
+		"Title": "Despicable Me 3 (2017)",
+		"Country": "USA",
+		"Duration": "1 h 30 min",
+		"Genre": "Animation, Action, Adventure",
+		"Writers": "Ken Daurio, Cinco Paul",
+		"Cast": "Jenny Slate, Kristen Wiig, Steve Carell, Julie Andrews, Miranda Cosgrove, Steve Coogan and others",
+		"Description": "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist"
+	    }],
+	
+	
+"Film_2": [{
+		
+		"Title": "Wonder Woman (2017)",
+		"Country": "USA",
+		"Duration": "2h 21min",
+		"Genre": "Action, Adventure, Fantasy",
+		"Writers": "Allan Heinberg, Zack Snyder",
+		"Cast": "Gal Gadot,Chris Pine,Connie Nielsen, Robin Wright,Danny Huston, David Thewlis and others",
+		"Description": "Before she was Wonder Woman she was Diana, princess of the Amazons, trained warrior. When a pilot crashes and tells of conflict in the outside world, she leaves home to fight a war to end all wars,discovering her full powers and true destiny."
+		}], 
+		
+		
+"Film_3": [{
+		
+		"Title": "Atomic Blonde (2017)",
+		"Country": "USA",
+		"Duration": "1h 55min",
+		"Genre": "Action, Mystery, Thriller",
+		"Writers": "Kurt Johnstad, Antony Johnston",
+		"Cast": "Sofia Boutella, Charlize Theron, James McAvoy, John Goodman, Toby Jones, and others",
+		"Description": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents."
+		}], 
+		
+		
+"Film_4": [{
+		
+		"Title": "It Comes at Night (2017)",
+		"Country": "USA",
+		"Duration": "1h 31min",
+		"Genre": "Horror, Mystery",
+		"Writers": "Trey Edward Shults",
+		"Cast": "Joel Edgerton, Christopher Abbott, Carmen Ejogo, Riley Keough, Kelvin Harrison Jr. and others",
+		"Description": "Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son, but this will soon be put to test when a desperate young family arrives seeking refuge."
+		}], 
+		
+		
+"Film_5": [{
+		
+		"Title": "Transformers: The Last Knight (2017)",
+		"Country": "USA",
+		"Duration": "2h 29min",
+		"Genre": "Action, Adventure, Sci-Fi",
+		"Writers": "Art Marcum, Matt Holloway",
+		"Cast": "Mark Wahlberg, Anthony Hopkins, Josh Duhamel, Laura Haddock, Santiago Cabrera, Isabela Moner and others",
+		"Description": "Humans and Transformers are at war, Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth."
+		}]
+		}
